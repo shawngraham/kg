@@ -1,0 +1,672 @@
+subject,relation,object,subject_type,object_type
+influence,helped,ancient greece trade,NOUN_CHUNK,NOUN_CHUNK
+records,include,details,NOUN_CHUNK,NOUN_CHUNK
+greeks,estimated that,nearly 10 million liters,NOUN_CHUNK,QUANTITY
+fermentation,placed in,place,NOUN_CHUNK,NOUN_CHUNK
+dionysia,included,theatrical performances,NOUN_CHUNK,NOUN_CHUNK
+lees,studied,effect,NOUN_CHUNK,NOUN_CHUNK
+homer).references.external,links.greek,wine history,NOUN_CHUNK,NOUN_CHUNK
+illustration,depicts,death,NOUN_CHUNK,NOUN_CHUNK
+york times article,euphronios,euphronios krater,NOUN_CHUNK,NOUN_CHUNK
+bonhams,use,similar definition,NOUN_CHUNK,NOUN_CHUNK
+influence,helped,ancient greece trade,NOUN_CHUNK,NOUN_CHUNK
+records,include,details,NOUN_CHUNK,NOUN_CHUNK
+greeks,estimated that,nearly 10 million liters,NOUN_CHUNK,QUANTITY
+fermentation,placed in,place,NOUN_CHUNK,NOUN_CHUNK
+dionysia,included,theatrical performances,NOUN_CHUNK,NOUN_CHUNK
+lees,studied,effect,NOUN_CHUNK,NOUN_CHUNK
+homer).references.external,links.greek,wine history,NOUN_CHUNK,NOUN_CHUNK
+sorrowful seer,indicates,imminent death,NOUN_CHUNK,NOUN_CHUNK
+different types,include,atomic absorption,NOUN_CHUNK,NOUN_CHUNK
+faunal analysis,provides,insight,NOUN_CHUNK,NOUN_CHUNK
+major types,include,relative dating,NOUN_CHUNK,NOUN_CHUNK
+display,raised,ethical questions,NOUN_CHUNK,NOUN_CHUNK
+landmarks,include,hellenic parliament,NOUN_CHUNK,NOUN_CHUNK
+poseidon,struck,ground,NOUN_CHUNK,NOUN_CHUNK
+poseidon,gave,horse,NOUN_CHUNK,NOUN_CHUNK
+athena,offered,domesticated olive tree,NOUN_CHUNK,NOUN_CHUNK
+athens,expanded,athens settlement,NOUN_CHUNK,NOUN_CHUNK
+athens,hosted,modern olympic games,NOUN_CHUNK,NOUN_CHUNK
+common measures,improved,quality,NOUN_CHUNK,NOUN_CHUNK
+city,ranked,35th in digital security,NOUN_CHUNK,ORDINAL
+coastal areas,have,hot semi arid climate,NOUN_CHUNK,NOUN_CHUNK
+places,recorded,temperatures,NOUN_CHUNK,NOUN_CHUNK
+ioannina,receives,"around 1,300 mm",NOUN_CHUNK,QUANTITY
+snow,blanketed,city,NOUN_CHUNK,NOUN_CHUNK
+large area,acquiring,reputation,NOUN_CHUNK,NOUN_CHUNK
+large area,has,picturesque 11th century byzantine church,NOUN_CHUNK,NOUN_CHUNK
+upgraded main olympic complex,dominates,skyline,NOUN_CHUNK,NOUN_CHUNK
+second olympic complex,features,modern stadia,NOUN_CHUNK,NOUN_CHUNK
+demographics.population,has,official population,NOUN_CHUNK,NOUN_CHUNK
+population,equalled,size,NOUN_CHUNK,NOUN_CHUNK
+athenian territory,contained,"around 200,000 people",NOUN_CHUNK,CARDINAL
+thucydides,indicates,5th century total,NOUN_CHUNK,NOUN_CHUNK
+athens,refer,international relations,NOUN_CHUNK,NOUN_CHUNK
+cosmote,opap,headquarters,NOUN_CHUNK,NOUN_CHUNK
+multinational companies,have,multinational companies,NOUN_CHUNK,NOUN_CHUNK
+metro.the athens metro,runs,three metro lines,NOUN_CHUNK,CARDINAL
+line,connects,western suburbs,NOUN_CHUNK,NOUN_CHUNK
+athens commuter rail service,connects,athens international airport,NOUN_CHUNK,NOUN_CHUNK
+athens's commuter rail network,covers,majority,GPE,NOUN_CHUNK
+2.2 billion euros,employs,staff,MONEY,NOUN_CHUNK
+"patras).gr-3 n (elefsina, lamia",form,athens trilogy,ORG,NOUN_CHUNK
+ancient athenian philosophers,located in,academic lectures,NOUN_CHUNK,NOUN_CHUNK
+athens,has,more than a dozen archaeological libraries,NOUN_CHUNK,CARDINAL
+architects,employed,materials,NOUN_CHUNK,NOUN_CHUNK
+world war,included,walter gropius,NOUN_CHUNK,NOUN_CHUNK
+greek government,funded,major infrastructure projects,NOUN_CHUNK,NOUN_CHUNK
+athens,plays,host,NOUN_CHUNK,NOUN_CHUNK
+coastal suburbs,have,tavernas,NOUN_CHUNK,NOUN_CHUNK
+city,hosted,summer olympic games,NOUN_CHUNK,NOUN_CHUNK
+host,hosted,euroleague final times,NOUN_CHUNK,NOUN_CHUNK
+sports,clubs.beside,clubs,NOUN_CHUNK,NOUN_CHUNK
+idea,lost,support,NOUN_CHUNK,NOUN_CHUNK
+city,defeated,rome,NOUN_CHUNK,NOUN_CHUNK
+games,welcomed,"10,000 athletes",NOUN_CHUNK,NOUN_CHUNK
+artemis.sonorant,w,lengthening,NOUN_CHUNK,NOUN_CHUNK
+ὑφαίρεσις) homeric boē tho os attic boēthos,running to,helper,NOUN_CHUNK,NOUN_CHUNK
+adjectival,having,two syllables,NOUN_CHUNK,CARDINAL
+grammar.attic greek grammar,follows,ancient greek grammar,NOUN_CHUNK,NOUN_CHUNK
+attic greek,had,dual number,NOUN_CHUNK,NOUN_CHUNK
+plural neuter subjects,take,singular conjugation verbs,NOUN_CHUNK,NOUN_CHUNK
+final wine,limited to,minimum alcohol level,NOUN_CHUNK,NOUN_CHUNK
+museum,has,collecting policy,NOUN_CHUNK,NOUN_CHUNK
+museums,have,specific area,NOUN_CHUNK,NOUN_CHUNK
+history museum,collect,objects,NOUN_CHUNK,NOUN_CHUNK
+large museums,have,subcollections,NOUN_CHUNK,NOUN_CHUNK
+owner,have,legal title,NOUN_CHUNK,NOUN_CHUNK
+object,pose,threats,NOUN_CHUNK,NOUN_CHUNK
+museum,have,resources,NOUN_CHUNK,NOUN_CHUNK
+disciplines,have,different concerns,NOUN_CHUNK,NOUN_CHUNK
+objects,have,extremely specialized needs,NOUN_CHUNK,NOUN_CHUNK
+museum,take into,comfort,NOUN_CHUNK,NOUN_CHUNK
+68 °f-75 °f,accepted that,lot,CARDINAL,NOUN_CHUNK
+decision,includes,two parts,NOUN_CHUNK,CARDINAL
+napoleon soldiers,appropriated,private collections,NOUN_CHUNK,NOUN_CHUNK
+famous artworks,included,bronze horses,NOUN_CHUNK,NOUN_CHUNK
+laocoön,had,particular meaning,NOUN_CHUNK,NOUN_CHUNK
+expedition discoveries,included,rosetta stone,NOUN_CHUNK,NOUN_CHUNK
+cicero,set in,verres,NOUN_CHUNK,NOUN_CHUNK
+legal issues.national government,laws.united,states.in 1863,NOUN_CHUNK,ORG
+resulting general orders,recognized,cultural property,NOUN_CHUNK,NOUN_CHUNK
+two labor mps,establish,process,CARDINAL,NOUN_CHUNK
+phase,repatriate,40 culturally significant objects,NOUN_CHUNK,CARDINAL
+illinois state museum,returned,19 sacred objects,NOUN_CHUNK,CARDINAL
+canadian museums association,led,task force,NOUN_CHUNK,NOUN_CHUNK
+prominent examples,include,benin bronzes,NOUN_CHUNK,NOUN_CHUNK
+masada legend,galvanises,israel,NOUN_CHUNK,NOUN_CHUNK
+written sources,include,epigraphical evidence,NOUN_CHUNK,NOUN_CHUNK
+herodotus,record,dates,NOUN_CHUNK,NOUN_CHUNK
+archaic period,saw,development,NOUN_CHUNK,NOUN_CHUNK
+archaic period,saw,development,NOUN_CHUNK,NOUN_CHUNK
+cleisthenes,redivided,athenian population,NOUN_CHUNK,NOUN_CHUNK
+daedalic style,made,appearance,NOUN_CHUNK,NOUN_CHUNK
+period,based around,shift,NOUN_CHUNK,NOUN_CHUNK
+literary culture,spread out,greek world,NOUN_CHUNK,NOUN_CHUNK
+polis,need,coins,NOUN_CHUNK,NOUN_CHUNK
+conquests,spread,hellenistic civilization,NOUN_CHUNK,NOUN_CHUNK
+athens,suffered,land agrarian crisis,NOUN_CHUNK,NOUN_CHUNK
+greece,enjoyed,huge economic development,NOUN_CHUNK,NOUN_CHUNK
+athens,ended,athens campaigns,NOUN_CHUNK,NOUN_CHUNK
+theban general epaminondas,led,theban troops,NOUN_CHUNK,NOUN_CHUNK
+alexander,continued,punic war,NOUN_CHUNK,NOUN_CHUNK
+greek city states,widened,horizons,NOUN_CHUNK,NOUN_CHUNK
+roman civil wars,devastated,land,NOUN_CHUNK,NOUN_CHUNK
+social prominence,allow,special rights,NOUN_CHUNK,NOUN_CHUNK
+slaves,made up,one-third of the total population in some city-states,NOUN_CHUNK,CARDINAL
+city states,established,public schools,NOUN_CHUNK,NOUN_CHUNK
+wealthy families,afford,teacher,NOUN_CHUNK,NOUN_CHUNK
+older youths,attended,academy,NOUN_CHUNK,NOUN_CHUNK
+richest students,continued,richest students education,NOUN_CHUNK,NOUN_CHUNK
+culture.philosophy.ancient greek philosophy,had,important influence,PERSON,NOUN_CHUNK
+hellenistic period,saw,shift,NOUN_CHUNK,NOUN_CHUNK
+greek art,depicts,musical instruments,NOUN_CHUNK,NOUN_CHUNK
+ancient greeks,made,important discoveries,NOUN_CHUNK,NOUN_CHUNK
+humanist aesthetic,inspired,generations,NOUN_CHUNK,NOUN_CHUNK
+modern revival,took,place,NOUN_CHUNK,NOUN_CHUNK
+1100 bc).mycenaean greece,represents,advanced distinctively greek civilization,MONEY,NOUN_CHUNK
+achaean league territory,included,locris,NOUN_CHUNK,NOUN_CHUNK
+certain greek city states,joined,aetolian league,NOUN_CHUNK,NOUN_CHUNK
+region,wrested,independence,NOUN_CHUNK,NOUN_CHUNK
+one of lysimachus' lieutenants,took,control,CARDINAL,NOUN_CHUNK
+structure,had,influence,NOUN_CHUNK,NOUN_CHUNK
+symbol,has,unicode code point,NOUN_CHUNK,NOUN_CHUNK
+vase,combined,possibilities,NOUN_CHUNK,NOUN_CHUNK
+lower frieze,depicts,herons,NOUN_CHUNK,NOUN_CHUNK
+page,draws,cratère derveni article,NOUN_CHUNK,NOUN_CHUNK
+uppermost frieze,depicts on,calydonian boar hunt,NOUN_CHUNK,NOUN_CHUNK
+scene,depicts,battle,NOUN_CHUNK,NOUN_CHUNK
+end,shows,peleus,NOUN_CHUNK,NOUN_CHUNK
+fourth frieze,depicts,ambush,NOUN_CHUNK,NOUN_CHUNK
+wedding,provides,central image,NOUN_CHUNK,NOUN_CHUNK
+kneeling figure,carries,corpse,NOUN_CHUNK,NOUN_CHUNK
+c.,pioneered,use,NOUN_CHUNK,NOUN_CHUNK
+collaborations,include,two cups,NOUN_CHUNK,CARDINAL
+copious literary tradition,mention,pottery,NOUN_CHUNK,NOUN_CHUNK
+beazley,used,stylistic compendia,ORG,NOUN_CHUNK
+vase painting,received,major new impulses,NOUN_CHUNK,NOUN_CHUNK
+andokides workshop,began,production,NOUN_CHUNK,NOUN_CHUNK
+euphronios earliest known works,show,total control,NOUN_CHUNK,NOUN_CHUNK
+villa giulia,holds,two very early pelikes,NOUN_CHUNK,CARDINAL
+medium size vases,offered,space,NOUN_CHUNK,NOUN_CHUNK
+psykter,counted among,work,NOUN_CHUNK,NOUN_CHUNK
+euphronios,thought to,work,NOUN_CHUNK,NOUN_CHUNK
+phrase,implies,respect,NOUN_CHUNK,NOUN_CHUNK
+statuesque appearance,increased by,image,NOUN_CHUNK,NOUN_CHUNK
+series,smashed,smuggling ring,NOUN_CHUNK,NOUN_CHUNK
+chalice krater,depicts,symposium,NOUN_CHUNK,NOUN_CHUNK
+hermitage,depicts,four hetairai feasting,NOUN_CHUNK,CARDINAL
+telamon,delivers,deathblow,NOUN_CHUNK,NOUN_CHUNK
+neck amphora,shows,nearly identical scene,NOUN_CHUNK,NOUN_CHUNK
+euphronios workshop,produced,bowls,NOUN_CHUNK,NOUN_CHUNK
+e.g. euphronios,developed,true passion,NOUN_CHUNK,NOUN_CHUNK
+fragmentary inscription,contains,euphronios,NOUN_CHUNK,NOUN_CHUNK
+linking issn,provides,mechanism,NOUN_CHUNK,NOUN_CHUNK
+use,facilitates,search,NOUN_CHUNK,NOUN_CHUNK
+derivative lists,found through,issn codes,NOUN_CHUNK,NOUN_CHUNK
+new issn,assigned to,major title change,NOUN_CHUNK,NOUN_CHUNK
+reference).example nature,used as,issn,NOUN_CHUNK,NOUN_CHUNK
+urn,represented as,need,NOUN_CHUNK,NOUN_CHUNK
+metadata contexts,have,standard labels,NOUN_CHUNK,NOUN_CHUNK
+publishers,assigned to,isbns,NOUN_CHUNK,NOUN_CHUNK
+international isbn agency,assigns,books isbns,NOUN_CHUNK,NOUN_CHUNK
+initiative.another identifier,identifies,periodical publications,NOUN_CHUNK,NOUN_CHUNK
+international standard music number,covers,musical scores,NOUN_CHUNK,NOUN_CHUNK
+iso,appointed,international isbn agency,NOUN_CHUNK,NOUN_CHUNK
+j. g. reeder returns,has,sbn,NOUN_CHUNK,NOUN_CHUNK
+ebook,have,different isbn,NOUN_CHUNK,NOUN_CHUNK
+2020).brazil câmara brasileira,do,livro,NOUN_CHUNK,NOUN_CHUNK
+italian publishers,the israel center for,national bureau,NORP,NOUN_CHUNK
+books,have,group elements.within,NOUN_CHUNK,NOUN_CHUNK
+registrant national isbn agency,assigns,registrant element,NOUN_CHUNK,NOUN_CHUNK
+publisher,receive,block,NOUN_CHUNK,NOUN_CHUNK
+publisher,have,different allotted registrant elements,NOUN_CHUNK,NOUN_CHUNK
+remainder,equal,0 or 11,NOUN_CHUNK,CARDINAL
+13-digit isbn,describes,digit,NOUN_CHUNK,NOUN_CHUNK
+isbns,have,check digit,NOUN_CHUNK,NOUN_CHUNK
+libraries,display,book record,NOUN_CHUNK,NOUN_CHUNK
+space technology,offer,suitable chance,NOUN_CHUNK,NOUN_CHUNK
+light,enter,brother grotto,NOUN_CHUNK,NOUN_CHUNK
+zeus,took,hera,NOUN_CHUNK,TIME
+italy,has,territorial enclave,GPE,NOUN_CHUNK
+italian explorers,discovered,new routes,NORP,NOUN_CHUNK
+italy,entered,period,NOUN_CHUNK,NOUN_CHUNK
+cato origines,described,italy,NOUN_CHUNK,NOUN_CHUNK
+alps,formed,walls,NOUN_CHUNK,NOUN_CHUNK
+greek colonization,places,italic peoples,NOUN_CHUNK,NOUN_CHUNK
+tradition,handed down,seven kings,NOUN_CHUNK,CARDINAL
+rome,formed,conquest,NOUN_CHUNK,NOUN_CHUNK
+long triumphant reign,began,golden age,NOUN_CHUNK,NOUN_CHUNK
+roman empire,covered,5 million square kilometres,NOUN_CHUNK,QUANTITY
+invasions,caused,chaotic succession,NOUN_CHUNK,NOUN_CHUNK
+franks,helped,formation,NOUN_CHUNK,NOUN_CHUNK
+venice,maintained,enormous tracts,NOUN_CHUNK,NOUN_CHUNK
+italian princedoms,represented,form,NOUN_CHUNK,NOUN_CHUNK
+popes status,turned,conclaves,NOUN_CHUNK,NOUN_CHUNK
+magnificent,avoided,collapse,NOUN_CHUNK,NOUN_CHUNK
+end,left,italy,NOUN_CHUNK,NOUN_CHUNK
+monarchical new kingdom,obtained,great power status,NOUN_CHUNK,NOUN_CHUNK
+government,took,place,NOUN_CHUNK,NOUN_CHUNK
+china,gave,fundamental contribution,GPE,NOUN_CHUNK
+italians,launched,massive offensive,NOUN_CHUNK,NOUN_CHUNK
+italy,receive,territories,GPE,NOUN_CHUNK
+italy,entered,world war,NOUN_CHUNK,NOUN_CHUNK
+italian war crimes,included,extrajudicial killings,NORP,NOUN_CHUNK
+united nations,made,territory,NOUN_CHUNK,NOUN_CHUNK
+italy,faced,terror attacks,NOUN_CHUNK,NOUN_CHUNK
+two major dynamite attacks,killed,judges,CARDINAL,NOUN_CHUNK
+vice secretary,formed,new government,NOUN_CHUNK,NOUN_CHUNK
+craxi government,started,important constitutional reforms,NOUN_CHUNK,NOUN_CHUNK
+worldwide known mountains,include,rosa,NOUN_CHUNK,NOUN_CHUNK
+italian coasts,include,amalfi coast,NORP,NOUN_CHUNK
+italy,ranks,84th in the world for ecological sustainability,GPE,ORDINAL
+renewable energies,provided,approximately 37% italy's energy consumption,NOUN_CHUNK,PERCENT
+italy,receives,species,GPE,NOUN_CHUNK
+italy's three major political parties coalitions,won,614 out of 630 seats available in the chamber of deputies and 309 out of 315 in the italian senate,GPE,CARDINAL
+italy,has,47th highest murder rate,NOUN_CHUNK,NOUN_CHUNK
+recent upcoming turns,include,organization,NOUN_CHUNK,NOUN_CHUNK
+italy,deploying,"5,296 troops",GPE,CARDINAL
+italian army,has at,leopard 1 m113 armoured vehicles,NOUN_CHUNK,NOUN_CHUNK
+italian navy,had,"35,200 active personnel",NOUN_CHUNK,CARDINAL
+italy,introduced,common european currency,GPE,NOUN_CHUNK
+richest province,earns,152%,NOUN_CHUNK,PERCENT
+italy,has,11 rail border crossings,GPE,CARDINAL
+italy,maintained,civilian air fleet,GPE,NOUN_CHUNK
+construction,intensified,sea trade,NOUN_CHUNK,NOUN_CHUNK
+michelangelo,made,important contributions,PERSON,NOUN_CHUNK
+galileo galilei,played,major role,NOUN_CHUNK,NOUN_CHUNK
+gerolamo cardano,– c.,fundamental advances,NOUN_CHUNK,NOUN_CHUNK
+pacioli,established,accounting,NOUN_CHUNK,NOUN_CHUNK
+francesco redi,described,180 parasites,PERSON,CARDINAL
+giulio natta,received,nobel prize,PERSON,NOUN_CHUNK
+ennio de giorgi,are,bernstein problem,PERSON,NOUN_CHUNK
+international centre,conduct,basic research,NOUN_CHUNK,NOUN_CHUNK
+italy,experienced,significant growth,NOUN_CHUNK,NOUN_CHUNK
+diaspora,concerned,more than 25 million italians,NOUN_CHUNK,CARDINAL
+equally important source,neighbouring,north africa,NOUN_CHUNK,NOUN_CHUNK
+four of these also,enjoy,co - official status,CARDINAL,NOUN_CHUNK
+italy,welcomed,jews,GPE,NORP
+italian state,runs,universal public healthcare system,NOUN_CHUNK,NOUN_CHUNK
+italy,has,relatively low rate,GPE,NOUN_CHUNK
+unesco,added,mediterranean diet,ORG,NOUN_CHUNK
+italy,had,central role,GPE,NOUN_CHUNK
+luigi,began in,construction,NOUN_CHUNK,NOUN_CHUNK
+marcello,devised,form,NOUN_CHUNK,NOUN_CHUNK
+baroque period,produced,clear scientific prose,NOUN_CHUNK,NOUN_CHUNK
+italian writers,embraced,romanticism,NORP,NOUN_CHUNK
+emilio,published,sandokan series,NOUN_CHUNK,NOUN_CHUNK
+movement,influenced,italian literature,NOUN_CHUNK,NOUN_CHUNK
+major italian philosophers,include,xenophanes,NOUN_CHUNK,NOUN_CHUNK
+notable renaissance philosophers,include,giordano bruno,NOUN_CHUNK,ORG
+main categories,include,servants,NOUN_CHUNK,NOUN_CHUNK
+italy's most famous composers,include,renaissance composers,GPE,NOUN_CHUNK
+notable centres,include,milan,NOUN_CHUNK,NOUN_CHUNK
+gigliola cinquetti,won,eurovision song contest,NOUN_CHUNK,NOUN_CHUNK
+companies,reached,fair producing quality,NOUN_CHUNK,NOUN_CHUNK
+notable italian film directors,include,vittorio de sica,NOUN_CHUNK,PERSON
+movies,include,world cinema treasures,NOUN_CHUNK,NOUN_CHUNK
+actresses,achieved,international stardom,NOUN_CHUNK,NOUN_CHUNK
+italian films,won,12 palmes d'or,NORP,CARDINAL
+popular team sports,named,basketball,NOUN_CHUNK,NOUN_CHUNK
+rugby union,enjoys,good level,NOUN_CHUNK,NOUN_CHUNK
+italy,has,long successful tradition,GPE,NOUN_CHUNK
+italian professional tennis players,won,davis cup,NOUN_CHUNK,NOUN_CHUNK
+examples,include,zanussi's washing machines,NOUN_CHUNK,ORG
+city,hosts,fiera milano,NOUN_CHUNK,NOUN_CHUNK
+milan,hosts,major design architecture related events,NOUN_CHUNK,NOUN_CHUNK
+italian cuisine,takes,heavy influences,NORP,NOUN_CHUNK
+public holidays,include,religious national regional observances,NOUN_CHUNK,NOUN_CHUNK
+authority,resided in,individual small cities,NOUN_CHUNK,NOUN_CHUNK
+proposed etymology,has,long history,NOUN_CHUNK,NOUN_CHUNK
+ancient writers,differed in,theories,NOUN_CHUNK,NOUN_CHUNK
+lemnos stele,bears,inscriptions,NOUN_CHUNK,NOUN_CHUNK
+syracuse's tyrant hiero,defeated,etruscans,GPE,NOUN_CHUNK
+tyrrhenus,gave,tyrrhenus,NOUN_CHUNK,NOUN_CHUNK
+modern authors,include,rusellae,NOUN_CHUNK,NOUN_CHUNK
+roman families,achieved,state system,NOUN_CHUNK,NOUN_CHUNK
+etruscan texts,name,number,NOUN_CHUNK,NOUN_CHUNK
+etruscans,used,model,NOUN_CHUNK,NOUN_CHUNK
+apparent promiscuous revelry,has,spiritual explanation,NOUN_CHUNK,NOUN_CHUNK
+etruscans,had,significant military tradition,NOUN_CHUNK,NOUN_CHUNK
+greek heroes,adapted,native italic styles,NOUN_CHUNK,NOUN_CHUNK
+etruscans,lost,civilizations,NOUN_CHUNK,NOUN_CHUNK
+exterior,depicted,scenes,NOUN_CHUNK,NOUN_CHUNK
+object,found among,funeral procession,NOUN_CHUNK,NOUN_CHUNK
+gilded derveni krater,represents,exceptional chef d’œuvre,NOUN_CHUNK,NOUN_CHUNK
+worship,included,aspect,NOUN_CHUNK,NOUN_CHUNK
+traveler,applied to,stone,NOUN_CHUNK,NOUN_CHUNK
+spread,saw,traditional greek deities,NOUN_CHUNK,NOUN_CHUNK
+odin,share,attributes,NOUN_CHUNK,NOUN_CHUNK
+ex - votos,revealed,role,NOUN_CHUNK,NOUN_CHUNK
+messenger,wears,gifts,NOUN_CHUNK,NOUN_CHUNK
+aeschylus,called,hermes,NOUN_CHUNK,NOUN_CHUNK
+online version,graeciae,descriptio,NOUN_CHUNK,NOUN_CHUNK
+iliad,(;,ancient greek,NOUN_CHUNK,NOUN_CHUNK
+iliad,contains,"15,693 lines",NOUN_CHUNK,CARDINAL
+chryses,offers,achaeans wealth,NOUN_CHUNK,NOUN_CHUNK
+poet,describes,trojans,NOUN_CHUNK,NOUN_CHUNK
+paris,swear,truce,NOUN_CHUNK,NOUN_CHUNK
+agamemnon,rouses,achaeans,NOUN_CHUNK,NOUN_CHUNK
+achilles,sends,patroclus,NOUN_CHUNK,NOUN_CHUNK
+trojans,attack,achaean wall,NOUN_CHUNK,NOUN_CHUNK
+river,confronts,achilles,NOUN_CHUNK,NOUN_CHUNK
+priam,takes,wagon,NOUN_CHUNK,NOUN_CHUNK
+priam,clasps,achilles,NOUN_CHUNK,NOUN_CHUNK
+two,moved to,losses,CARDINAL,NOUN_CHUNK
+priam,carries,hector body,NOUN_CHUNK,NOUN_CHUNK
+advisor,ajax,great king,NOUN_CHUNK,NOUN_CHUNK
+diomedes,ajax,lesser commander,NOUN_CHUNK,NOUN_CHUNK
+patroclus achilles closest companion,surrounded,nature,NOUN_CHUNK,NOUN_CHUNK
+trojans) euphorbus trojan warrior,was,patroclus,NOUN_CHUNK,NOUN_CHUNK
+achilles,choose,only one,NOUN_CHUNK,CARDINAL
+pride,timē.akin to,plot,NOUN_CHUNK,NOUN_CHUNK
+warrior consequent rancor,ruins,achaean military cause,NOUN_CHUNK,NOUN_CHUNK
+anger,disturbs,distance,NOUN_CHUNK,NOUN_CHUNK
+hubris,forces,paris,NOUN_CHUNK,NOUN_CHUNK
+μῆνις,establishes,iliad principal theme,NOUN_CHUNK,NOUN_CHUNK
+personal rage,propel,story,NOUN_CHUNK,NOUN_CHUNK
+achilles,accuses,agamemnon,NOUN_CHUNK,NOUN_CHUNK
+agamemnon,contemplates,defeat,NOUN_CHUNK,NOUN_CHUNK
+greeks,the first edition of,iliad,NOUN_CHUNK,NOUN_CHUNK
+milman parry,launched,movement,NOUN_CHUNK,NOUN_CHUNK
+warriors,touched,warriors heads,NOUN_CHUNK,NOUN_CHUNK
+warfare,argued that,profound traceable effect,NOUN_CHUNK,NOUN_CHUNK
+major hero,encounter,lesser hero,NOUN_CHUNK,NOUN_CHUNK
+victor,strips,body,NOUN_CHUNK,NOUN_CHUNK
+"lived,.beaten",struck,the.sheepflocks..therefore,NOUN_CHUNK,NOUN_CHUNK
+bronze spearhead,came,clean.through,NOUN_CHUNK,NOUN_CHUNK
+phalanx,have,heroic aspects,NOUN_CHUNK,NOUN_CHUNK
+iliad,expresses,definite disdain,NOUN_CHUNK,NOUN_CHUNK
+text,made,homer return,NOUN_CHUNK,NOUN_CHUNK
+late antique forged accounts,formed,basis,NOUN_CHUNK,NOUN_CHUNK
+nations,traced,nations,NOUN_CHUNK,NOUN_CHUNK
+20th-century arts.simone weil,wrote,essay,DATE,NOUN_CHUNK
+wolf narrator,presents,feminist view,NOUN_CHUNK,NOUN_CHUNK
+samuel butler,been,classics,NOUN_CHUNK,NOUN_CHUNK
+scalfari,invited,trusted colleagues,NOUN_CHUNK,NOUN_CHUNK
+repubblica,backed,policy,NOUN_CHUNK,NOUN_CHUNK
+the same year,saw,launch,DATE,NOUN_CHUNK
+newspaper,introduced,colour,NOUN_CHUNK,NOUN_CHUNK
+current newspaper,published,new york times international weekly,NOUN_CHUNK,NOUN_CHUNK
+english language supplement,features,articles,NOUN_CHUNK,NOUN_CHUNK
+introduction,provoked,islamic caliph,NOUN_CHUNK,NOUN_CHUNK
+current uk coinage,features,following abbreviated latin inscription,NOUN_CHUNK,NOUN_CHUNK
+earlier issues,included,brit[anniarum,NOUN_CHUNK,NOUN_CHUNK
+famous examples,include,roman sack,NOUN_CHUNK,NOUN_CHUNK
+high profile cases,made,headline news,NOUN_CHUNK,NOUN_CHUNK
+pavement mosaics,damaged by,extensive damage,NOUN_CHUNK,NOUN_CHUNK
+authorities,found,surplus,NOUN_CHUNK,NOUN_CHUNK
+authorities,found,30 to 40 more crates,NOUN_CHUNK,CARDINAL
+discomforting idea,straining,ties,NOUN_CHUNK,NOUN_CHUNK
+dominique de menil,found,13th century byzantine frescoes,PERSON,NOUN_CHUNK
+cypriot mosaics,survived,8th- 9th century iconoclasm,NOUN_CHUNK,NOUN_CHUNK
+district court,made,verdict,NOUN_CHUNK,NOUN_CHUNK
+"180,000 artworks",include,sculptures,CARDINAL,NOUN_CHUNK
+berlin's state museum,lost,around 400 artworks,GPE,CARDINAL
+german state,maintains,list,NOUN_CHUNK,NOUN_CHUNK
+veteran bbc foreign correspondent charles wheeler,received,small painting,NOUN_CHUNK,NOUN_CHUNK
+wheeler,covered,process,NOUN_CHUNK,NOUN_CHUNK
+bezymenski,understood,political implications,NOUN_CHUNK,NOUN_CHUNK
+russian culture minister mikhail shvydkoi,estimates,worth,NORP,NOUN_CHUNK
+armies,writes,babylon,NOUN_CHUNK,NOUN_CHUNK
+about 95 percent,left,iraq national museum,PERCENT,NOUN_CHUNK
+met,surrendered,15 pieces,NOUN_CHUNK,CARDINAL
+getty,acquired,5th century bc statue,NOUN_CHUNK,NOUN_CHUNK
+getty,resisted,requests,NOUN_CHUNK,NOUN_CHUNK
+italy,dropped,civil charges,GPE,NOUN_CHUNK
+objects,included,greek red figure kylix,NOUN_CHUNK,NOUN_CHUNK
+french,spread by,protectorate,NOUN_CHUNK,NOUN_CHUNK
+subsequent investigations,bought by,seated buddha,NOUN_CHUNK,NOUN_CHUNK
+maya,has,long tradition,NOUN_CHUNK,NOUN_CHUNK
+archaeologists,looted before,graves,NOUN_CHUNK,NOUN_CHUNK
+edward d. townsend,wrote,general order,NOUN_CHUNK,NOUN_CHUNK
+united states congress,enacted,legislation,NOUN_CHUNK,NOUN_CHUNK
+nazis,set up,special departments,NOUN_CHUNK,NOUN_CHUNK
+salt mines,offered,appropriate humidity,NOUN_CHUNK,NOUN_CHUNK
+iconography,maintained,remarkable degree,NOUN_CHUNK,NOUN_CHUNK
+plays,have,personifications,NOUN_CHUNK,NOUN_CHUNK
+frau minne,illustrated by,equivalents,NOUN_CHUNK,NOUN_CHUNK
+quintilian lengthy institutio,written until,comprehensive account,NOUN_CHUNK,NOUN_CHUNK
+classical repertoire,supplied,majority,NOUN_CHUNK,NOUN_CHUNK
+list,organises,collection,NOUN_CHUNK,NOUN_CHUNK
+i.,includes,appendix,NOUN_CHUNK,NOUN_CHUNK
+penguin classics,released,set,NOUN_CHUNK,NOUN_CHUNK
+book,has,perspex slipcase,NOUN_CHUNK,NOUN_CHUNK
+jacket,features,fashion designer manolo blahnik original painting,NOUN_CHUNK,NOUN_CHUNK
+morrissey,survive,morrissey unearned elevation,NOUN_CHUNK,NOUN_CHUNK
+term painting,describes,act,NOUN_CHUNK,NOUN_CHUNK
+archaeologists,found,fragment,NOUN_CHUNK,NOUN_CHUNK
+series,challenged,renaissance view,NOUN_CHUNK,NOUN_CHUNK
+vitality,defy,previous declarations,NOUN_CHUNK,NOUN_CHUNK
+word,cover,wide range,NOUN_CHUNK,NOUN_CHUNK
+modern painters,incorporate,different materials,NOUN_CHUNK,NOUN_CHUNK
+jackson pollock,underscores,interest jackson pollock 1950 painting autumn rhythm,NOUN_CHUNK,NOUN_CHUNK
+india,have,long traditions,GPE,NOUN_CHUNK
+mixtures,purchased,oil paints,NOUN_CHUNK,NOUN_CHUNK
+stencil,protects,surface,NOUN_CHUNK,NOUN_CHUNK
+school,gathered,adherents,NOUN_CHUNK,NOUN_CHUNK
+allegory,communicates,allegory message,NOUN_CHUNK,NOUN_CHUNK
+northern lifes,augmented by,subgenres,NOUN_CHUNK,NOUN_CHUNK
+museum exhibitions,devoted,space,NOUN_CHUNK,NOUN_CHUNK
+works landscape backgrounds,form,important,NOUN_CHUNK,NOUN_CHUNK
+life paintings,contained,religious allegorical symbolism,NOUN_CHUNK,NOUN_CHUNK
+pioneer group,comprised,euphronios,NOUN_CHUNK,NOUN_CHUNK
+napoleon soldiers,appropriated,private collections,NOUN_CHUNK,NOUN_CHUNK
+famous artworks,included,bronze horses,NOUN_CHUNK,NOUN_CHUNK
+laocoön,had,particular meaning,NOUN_CHUNK,NOUN_CHUNK
+expedition discoveries,included,rosetta stone,NOUN_CHUNK,NOUN_CHUNK
+cicero,set in,verres,NOUN_CHUNK,NOUN_CHUNK
+legal issues.national government,laws.united,states.in 1863,NOUN_CHUNK,ORG
+resulting general orders,recognized,cultural property,NOUN_CHUNK,NOUN_CHUNK
+two labor mps,establish,process,CARDINAL,NOUN_CHUNK
+phase,repatriate,40 culturally significant objects,NOUN_CHUNK,CARDINAL
+illinois state museum,returned,19 sacred objects,NOUN_CHUNK,CARDINAL
+canadian museums association,led,task force,NOUN_CHUNK,NOUN_CHUNK
+prominent examples,include,benin bronzes,NOUN_CHUNK,NOUN_CHUNK
+masada legend,galvanises,israel,NOUN_CHUNK,NOUN_CHUNK
+permanent collection,contains,million works,NOUN_CHUNK,NOUN_CHUNK
+met,maintains,extensive holdings,NOUN_CHUNK,NOUN_CHUNK
+met,maintains,extensive holdings,NOUN_CHUNK,NOUN_CHUNK
+highlights,include,set,NOUN_CHUNK,NOUN_CHUNK
+wing,exhibits,non - western works,NOUN_CHUNK,NOUN_CHUNK
+wing,considered,arts,NOUN_CHUNK,NOUN_CHUNK
+pieces,represented in,type,NOUN_CHUNK,NOUN_CHUNK
+entire wing,contains,complete ming dynasty style garden court,NOUN_CHUNK,NOUN_CHUNK
+visitors,enter,dozens of completely furnished period rooms,NOUN_CHUNK,CARDINAL
+collection,includes,entire 16th century patio,NOUN_CHUNK,NOUN_CHUNK
+sculptural highlights,include,bernini bacchanal,NOUN_CHUNK,NOUN_CHUNK
+new installation,provides,visitors,NOUN_CHUNK,NOUN_CHUNK
+new galleries,encompasses,"30,000 square feet",NOUN_CHUNK,QUANTITY
+american wing.the museum's collection,contains,pieces,NORP,NOUN_CHUNK
+greek roman galleries,contain,large classical wall paintings,NOUN_CHUNK,NOUN_CHUNK
+interactive,met,map,NOUN_CHUNK,NOUN_CHUNK
+greek roman art department page,provides,department overview,NOUN_CHUNK,NOUN_CHUNK
+heilbrunn timeline,provides,a one thousand year overview,NOUN_CHUNK,DATE
+islamic metropolitan museum,owns,one of the world's largest collection of works of art of the islamic world,NOUN_CHUNK,CARDINAL
+world largest collection,includes,artifacts,NOUN_CHUNK,NOUN_CHUNK
+today,contains,"more than 35,000 costumes",NOUN_CHUNK,CARDINAL
+costume institute,maintain,permanent installation,NOUN_CHUNK,NOUN_CHUNK
+foundation,donated,"2,600 works",NOUN_CHUNK,CARDINAL
+paintings,include,masterpieces,NOUN_CHUNK,NOUN_CHUNK
+princeton university press,documented,american wing.the museum's collection,NOUN_CHUNK,NORP
+medieval art department permanent collection numbers,contains,"about 6,000 separate objects",NOUN_CHUNK,CARDINAL
+collection,includes,work,NOUN_CHUNK,NOUN_CHUNK
+highlights,include,stradivari violins,NOUN_CHUNK,NOUN_CHUNK
+department,gained,permanent gallery,NOUN_CHUNK,NOUN_CHUNK
+libraries.each department,requested,library,NOUN_CHUNK,NOUN_CHUNK
+watson library collection,contains,"approximately 900,000 volumes",NOUN_CHUNK,NOUN_CHUNK
+thomas j. watson library,includes,reference collection,NOUN_CHUNK,NOUN_CHUNK
+reference collection,includes,books,NOUN_CHUNK,NOUN_CHUNK
+exhibitions,include,displays,NOUN_CHUNK,NOUN_CHUNK
+met holdings,outgrew,space,NOUN_CHUNK,NOUN_CHUNK
+concerts & lectures program,presented,performers,NOUN_CHUNK,NOUN_CHUNK
+robert lehman foundation,donated,"close 3,000 works",NOUN_CHUNK,NOUN_CHUNK
+b. gerald cantor roof garden,offers,views,NOUN_CHUNK,NOUN_CHUNK
+roof garden,has,views,NOUN_CHUNK,NOUN_CHUNK
+notable trustees,include,anna wintour,NOUN_CHUNK,PERSON
+impact,impacted,met operations,NOUN_CHUNK,NOUN_CHUNK
+met,revised,deaccessioning policy,NOUN_CHUNK,NOUN_CHUNK
+robert fagles,taught,english comparative literature,NOUN_CHUNK,NOUN_CHUNK
+robert fagles,attended,amherst college,NOUN_CHUNK,NOUN_CHUNK
+teacher,had,two children,NOUN_CHUNK,CARDINAL
+bernard knox,authored,introduction,PERSON,NOUN_CHUNK
+vincent,received,academy award,PERSON,NOUN_CHUNK
+poems,received,pen ralph manheim medal,NOUN_CHUNK,NOUN_CHUNK
+fagles,undertook,new english translation,NOUN_CHUNK,NOUN_CHUNK
+poems,received,national humanities medal,NOUN_CHUNK,NOUN_CHUNK
+students,paid,tribute,NOUN_CHUNK,NOUN_CHUNK
+1960s 1970s personal life.robert hecht,reached,pre - eminent position,NOUN_CHUNK,NOUN_CHUNK
+mount lebanon range,saw,emergence,NOUN_CHUNK,NOUN_CHUNK
+ties,influenced,region,NOUN_CHUNK,NOUN_CHUNK
+mount lebanon,enjoyed,political economic stability,NOUN_CHUNK,NOUN_CHUNK
+dawlat,lubnān,al-kabīr,NOUN_CHUNK,PERSON
+maron,established,monastic tradition,NOUN_CHUNK,NOUN_CHUNK
+druze religion,gained,followers,NOUN_CHUNK,NOUN_CHUNK
+franks,saw,franks,NOUN_CHUNK,NOUN_CHUNK
+france,formed,lebanese republic,GPE,NOUN_CHUNK
+general henri dentz,played,major role,NOUN_CHUNK,NOUN_CHUNK
+charles de gaulle,recognized,independence,PERSON,NOUN_CHUNK
+free french government,held in,mandate,NOUN_CHUNK,NOUN_CHUNK
+french,released,government officials,NOUN_CHUNK,NOUN_CHUNK
+allies,occupied,region,NOUN_CHUNK,NOUN_CHUNK
+chamoun,requested,assistance,NOUN_CHUNK,NOUN_CHUNK
+scale civil war,pitted,coalition,NOUN_CHUNK,NOUN_CHUNK
+israel,invaded,contemporary lebanon,NOUN_CHUNK,NOUN_CHUNK
+syrian military presence,assassinated in,criticism,NOUN_CHUNK,NOUN_CHUNK
+new government,denounced,violence,NOUN_CHUNK,NOUN_CHUNK
+lebanese forces party,voiced,concerns,NOUN_CHUNK,NOUN_CHUNK
+unhcr,suspended,registration,ORG,NOUN_CHUNK
+contemporary lebanon,suffering,worst economic crisis,NOUN_CHUNK,NOUN_CHUNK
+geography.lebanon land,located in,northwest,NOUN_CHUNK,NOUN_CHUNK
+contemporary lebanon,has,coastline,NOUN_CHUNK,NOUN_CHUNK
+beirut mount lebanon,facing,severe garbage crisis,NOUN_CHUNK,NOUN_CHUNK
+new government,designed to,long term plan,NOUN_CHUNK,NOUN_CHUNK
+residents,forced,closure,NOUN_CHUNK,NOUN_CHUNK
+parliament,elects,president,NOUN_CHUNK,NOUN_CHUNK
+president,appoints,prime minister,NOUN_CHUNK,NOUN_CHUNK
+contemporary lebanon,has,bilateral trade agreements,NOUN_CHUNK,NOUN_CHUNK
+contemporary lebanon economy,follows,faire model,NOUN_CHUNK,NOUN_CHUNK
+country,dollarized,restrictions,NOUN_CHUNK,NOUN_CHUNK
+contemporary lebanon,has,high level,NOUN_CHUNK,NOUN_CHUNK
+emigration,yielded,"lebanese ""commercial networks",NOUN_CHUNK,NORP
+remittances,total,$8.2 billion,NOUN_CHUNK,MONEY
+agricultural sector,employs,12%,NOUN_CHUNK,PERCENT
+dependence,leaves,lebanon's economy,NOUN_CHUNK,GPE
+month long 2006 war,damaged,contemporary lebanon fragile economy,NOUN_CHUNK,NOUN_CHUNK
+course,expected as,course,NOUN_CHUNK,NOUN_CHUNK
+recent influx,ranked,recent rise,NOUN_CHUNK,NOUN_CHUNK
+restaurants,seeking,information,NOUN_CHUNK,NOUN_CHUNK
+brazil,have,large expatriate population,NOUN_CHUNK,NOUN_CHUNK
+"approximately 250,000–700,000 people",is,lebanese descent,CARDINAL,NORP
+survey,believed that,percentage,NOUN_CHUNK,NOUN_CHUNK
+christians,made up,53%,NORP,PERCENT
+majority,speak,lebanese arabic,NOUN_CHUNK,NORP
+lebanese citizens,speak,lebanese citizens,NORP,NORP
+arab image foundation,has,collection,NOUN_CHUNK,NOUN_CHUNK
+contemporary lebanon national holidays,include,workers day,NOUN_CHUNK,NOUN_CHUNK
+beirut lebanese environs,contain,restaurants,NOUN_CHUNK,NOUN_CHUNK
+hazem el masri,hold,records,PERSON,NOUN_CHUNK
+red figure vase painting,replaced,previously dominant style,NOUN_CHUNK,NOUN_CHUNK
+attic red figure   vases,exported throughout,market,NOUN_CHUNK,NOUN_CHUNK
+study,made,enormous progress,NOUN_CHUNK,NOUN_CHUNK
+images,provide,evidence,NOUN_CHUNK,NOUN_CHUNK
+new technique,permitted,indication,NOUN_CHUNK,NOUN_CHUNK
+new technique,had,disadvantages,NOUN_CHUNK,NOUN_CHUNK
+advantages,outnumbered,disadvantages,NOUN_CHUNK,NOUN_CHUNK
+depiction,illustrates,development,NOUN_CHUNK,NOUN_CHUNK
+attic fine pottery,maintained,dominance,NOUN_CHUNK,NOUN_CHUNK
+andokides painter,painted,vases,NOUN_CHUNK,NOUN_CHUNK
+important representatives,include,euphronios,NOUN_CHUNK,NOUN_CHUNK
+new shapes,include,psykter,NOUN_CHUNK,NOUN_CHUNK
+depictions,gained,seriousness,NOUN_CHUNK,NOUN_CHUNK
+greek wall painting reflection,constitutes,"one of the few, albeit modest, sources of information on that genre of art",NOUN_CHUNK,CARDINAL
+influences,include,newly erected parthenon greek wall painting sculptural decoration,NOUN_CHUNK,NOUN_CHUNK
+artists,placed,special emphasis,NOUN_CHUNK,NOUN_CHUNK
+notable examples,include,called mannerists,NOUN_CHUNK,NOUN_CHUNK
+workshops,continued,developments,NOUN_CHUNK,NOUN_CHUNK
+characteristic features,include,transparent garments,NOUN_CHUNK,NOUN_CHUNK
+suggestions,include,context,NOUN_CHUNK,NOUN_CHUNK
+increasing role,implied,new needs,NOUN_CHUNK,NOUN_CHUNK
+artists,contradicted by,earlier style,NOUN_CHUNK,NOUN_CHUNK
+added colours,include,blue,NOUN_CHUNK,NOUN_CHUNK
+common painted shapes,include,pelike,NOUN_CHUNK,NOUN_CHUNK
+potters quarter,contained,variety,NOUN_CHUNK,NOUN_CHUNK
+examples,include,douris,NOUN_CHUNK,NOUN_CHUNK
+vases,indicate,steady improvement,NOUN_CHUNK,NOUN_CHUNK
+export,be,important contribution,NOUN_CHUNK,NOUN_CHUNK
+thematic formal dependence,trained,distinctive ornate style,NOUN_CHUNK,NOUN_CHUNK
+vases,depict,scenes,NOUN_CHUNK,NOUN_CHUNK
+specimens,represent,single source,NOUN_CHUNK,NOUN_CHUNK
+apulia,produced,black varnished vases,NOUN_CHUNK,NOUN_CHUNK
+campania.campania,produced,red figure vases,NOUN_CHUNK,NOUN_CHUNK
+campanian painters,preferred,smaller vessel types,NOUN_CHUNK,NOUN_CHUNK
+subjects,include,youths,NOUN_CHUNK,NOUN_CHUNK
+later.the av group,had,later.the av group workshop,NOUN_CHUNK,NOUN_CHUNK
+later.the av group,favoured,domestic scenes,NOUN_CHUNK,NOUN_CHUNK
+lucanian vase painting tradition,began,bc,NOUN_CHUNK,NOUN_CHUNK
+parrish painter successors,had,workshop,NOUN_CHUNK,NOUN_CHUNK
+cheophoroi painter,showed,scenes,NOUN_CHUNK,NOUN_CHUNK
+important representatives,include,dolon painter,NOUN_CHUNK,NOUN_CHUNK
+workshop,painted,bell kraters,NOUN_CHUNK,NOUN_CHUNK
+characteristics,include,decorations,NOUN_CHUNK,NOUN_CHUNK
+asteas,had,major influence,NOUN_CHUNK,NOUN_CHUNK
+syracusae,retained,limited typical sicilian style,NOUN_CHUNK,NOUN_CHUNK
+important representatives,include,praxias painter,NOUN_CHUNK,NOUN_CHUNK
+notable workshops,include,sokra group,NOUN_CHUNK,NOUN_CHUNK
+phantom group,painted,cloaked figures,NOUN_CHUNK,NOUN_CHUNK
+workshops,dominated,etruscan market,NOUN_CHUNK,NOUN_CHUNK
+standard repertoire,included,simply painted oinochoai,NOUN_CHUNK,NOUN_CHUNK
+peiresc,owned,number,NOUN_CHUNK,NOUN_CHUNK
+sir william hamilton,had,vase collections,NOUN_CHUNK,NOUN_CHUNK
+german aesthetic writers,studied,vase paintings,NOUN_CHUNK,NOUN_CHUNK
+winckelmann,praised,umrißlinienstil,NOUN_CHUNK,NOUN_CHUNK
+paintings,had,influence,NOUN_CHUNK,NOUN_CHUNK
+linear style,influenced,artists,NOUN_CHUNK,NOUN_CHUNK
+ferdinand waldmüller,painted,life,NOUN_CHUNK,NOUN_CHUNK
+john d. beazley,published,john d. beazley conclusions,PERSON,NOUN_CHUNK
+major types,include,earthenware,NOUN_CHUNK,NOUN_CHUNK
+pottery,means,vessels,NOUN_CHUNK,NOUN_CHUNK
+fritware,falls outside,clay,NOUN_CHUNK,NOUN_CHUNK
+porous unglazed biscuit earthenware,has,limited utility,NOUN_CHUNK,NOUN_CHUNK
+earthenware,had,continuous history,NOUN_CHUNK,NOUN_CHUNK
+carbon dating,reveals,age,NOUN_CHUNK,NOUN_CHUNK
+artifacts,is,past recognition,NOUN_CHUNK,NOUN_CHUNK
+atmosphere,affect,appearance,NOUN_CHUNK,NOUN_CHUNK
+clay object,has,approximately 15% moisture content,NOUN_CHUNK,PERCENT
+firing,changes,clay body,NOUN_CHUNK,NOUN_CHUNK
+wares,have,distinctive veined mottled appearance,NOUN_CHUNK,NOUN_CHUNK
+process,demands,great skill,NOUN_CHUNK,NOUN_CHUNK
+countries,have,large deposits,NOUN_CHUNK,NOUN_CHUNK
+holes,provided,insulation,NOUN_CHUNK,NOUN_CHUNK
+excavations,uncovered,earthenware fragments,NOUN_CHUNK,NOUN_CHUNK
+korean potters,adopted,porcelain,NORP,NOUN_CHUNK
+artisans,used,veins,NOUN_CHUNK,NOUN_CHUNK
+invention,revolutionized,pottery production,NOUN_CHUNK,NOUN_CHUNK
+early inhabitants,developed,pottery,NOUN_CHUNK,NOUN_CHUNK
+entrepreneurs,produced in,large potteries,NOUN_CHUNK,NOUN_CHUNK
+excavations,revealed,pottery production site,NOUN_CHUNK,NOUN_CHUNK
+large export markets,took,staffordshire pottery,NOUN_CHUNK,NOUN_CHUNK
+trade,took,place,NOUN_CHUNK,NOUN_CHUNK
+islamic nations,imported,stoneware,NOUN_CHUNK,NOUN_CHUNK
+cultures,develop,stoneware,NOUN_CHUNK,NOUN_CHUNK
+maya ceramics,include,finely painted vessels,NOUN_CHUNK,NOUN_CHUNK
+swiss archaeologists,discovered,pieces,NOUN_CHUNK,NOUN_CHUNK
+man,makes,man,NOUN_CHUNK,NOUN_CHUNK
+form,follows,function,NOUN_CHUNK,NOUN_CHUNK
+etruscan art,used,terracotta,NOUN_CHUNK,NOUN_CHUNK
+techniques,included,molded reliefs,NOUN_CHUNK,NOUN_CHUNK
+exterior,used,techniques,NOUN_CHUNK,NOUN_CHUNK
+ancient traditional roofing styles,included,elaborate sculptural elements,NOUN_CHUNK,NOUN_CHUNK
+online version,graeciae,descriptio,NOUN_CHUNK,NOUN_CHUNK
+keres,specified as,violent death,NOUN_CHUNK,NOUN_CHUNK
+excavation,revealed,variety,NOUN_CHUNK,NOUN_CHUNK
+geophysical work,shows,large planned settlement,NOUN_CHUNK,NOUN_CHUNK
+large hall,had,apse,NOUN_CHUNK,NOUN_CHUNK
+remarkable architectural unit,resembles,megaron complex,NOUN_CHUNK,NOUN_CHUNK
+burial,took,place,NOUN_CHUNK,NOUN_CHUNK
+latest firmly dated find,provides,best evidence,NOUN_CHUNK,NOUN_CHUNK
+vase,transported to,about 60 kg,NOUN_CHUNK,QUANTITY
+handles,weighed,about 46 kg,NOUN_CHUNK,QUANTITY
+weight,depicts,eight chariots,NOUN_CHUNK,CARDINAL
+woman,covered by,peplos,NOUN_CHUNK,NOUN_CHUNK
+mound,destroyed in,woman,NOUN_CHUNK,NOUN_CHUNK
+bull head,handles for,best known piece,NOUN_CHUNK,NOUN_CHUNK
+figures,wear,helmets,NOUN_CHUNK,NOUN_CHUNK
+warriors,have,shields,NOUN_CHUNK,NOUN_CHUNK
+paris,waged against,helen,NOUN_CHUNK,NOUN_CHUNK
+zeus,threw from,gift,NOUN_CHUNK,NOUN_CHUNK
+menelaus,had,wealth,NOUN_CHUNK,NOUN_CHUNK
+paris abduction,had,precedents,NOUN_CHUNK,NOUN_CHUNK
+suitors,sent,suitors forces,NOUN_CHUNK,NOUN_CHUNK
+snake,turned to,mother,NOUN_CHUNK,NOUN_CHUNK
+achaean fleet,set,sail,NOUN_CHUNK,NOUN_CHUNK
+iliad,the second book of,trojan allies,NOUN_CHUNK,NOUN_CHUNK
+brother agamemnon,sent,embassy,NOUN_CHUNK,NOUN_CHUNK
+achilles,killed,cycnus,NOUN_CHUNK,NOUN_CHUNK
+achaeans,buried,protesilaus,NOUN_CHUNK,NOUN_CHUNK
+brother,took,command,NOUN_CHUNK,NOUN_CHUNK
+troy,maintained,communications,NOUN_CHUNK,NOUN_CHUNK
+achilles,conquered,11 cities,NOUN_CHUNK,CARDINAL
+ajax,hunted,trojan flocks,NOUN_CHUNK,NOUN_CHUNK
+numerous paintings,suggested,tale,NOUN_CHUNK,NOUN_CHUNK
+odysseus,challenged,palamedes,NOUN_CHUNK,NOUN_CHUNK
+achilles,forced,army,NOUN_CHUNK,NOUN_CHUNK
+apollo,enraged,army,NOUN_CHUNK,NOUN_CHUNK
+diomedes,wounded,gods,NOUN_CHUNK,NOUN_CHUNK
+trojans,drove,achaeans,NOUN_CHUNK,NOUN_CHUNK
+aeschines,received,new set,NOUN_CHUNK,NOUN_CHUNK
+paris,killed after,poisoned arrow,NOUN_CHUNK,NOUN_CHUNK
+aeneas,took,aeneas father,NOUN_CHUNK,NOUN_CHUNK
+teucer,stood,trial,NOUN_CHUNK,NOUN_CHUNK
+ajax,acquitted of,ajax dead body,NOUN_CHUNK,NOUN_CHUNK
+demophon,killed,palladium,NOUN_CHUNK,NOUN_CHUNK
+idomeneus ship,hit,horrible storm,NOUN_CHUNK,NOUN_CHUNK
+proteus,told,menelaus,NOUN_CHUNK,NOUN_CHUNK
+cassandra,killed,clytemnestra,NOUN_CHUNK,NOUN_CHUNK
+odysseus,had,adventures,NOUN_CHUNK,NOUN_CHUNK
+odysseus men,ate,cattle,NOUN_CHUNK,NOUN_CHUNK
+odysseus,eaten,cattle,NOUN_CHUNK,NOUN_CHUNK
+trojan survivors,find,colony,NOUN_CHUNK,NOUN_CHUNK
+arrival,exposes,chronological difficulties,NOUN_CHUNK,NOUN_CHUNK
+geologists,compared,present geology,NOUN_CHUNK,NOUN_CHUNK
+audio podcast bragg,interviews,edith hall,NOUN_CHUNK,NOUN_CHUNK
